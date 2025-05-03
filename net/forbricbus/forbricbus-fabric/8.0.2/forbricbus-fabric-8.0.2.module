@@ -1,0 +1,105 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.forbricbus",
+    "module": "forbricbus-fabric",
+    "version": "8.0.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.11.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "net.neoforged",
+          "module": "bus",
+          "version": {
+            "requires": "8.0.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "forbricbus-fabric-8.0.2.jar",
+          "url": "forbricbus-fabric-8.0.2.jar",
+          "size": 29389,
+          "sha512": "1df9beda19e25a818bc5638a065a95ce115ca5ce68d038738ce425628e4f1232918711f1052173676e1b119d5cc93b3382d1627f5757452de8ba48be36edd2e0",
+          "sha256": "3542b26a4462e4d40539a017ac98b2b89c2edfa5bdda84e3a90fc408283da322",
+          "sha1": "7fe64296b8b5d48354df4468cef9c201e1128704",
+          "md5": "f03ad5c6bd2ff44000f9fc8fbe10f6e5"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.neoforged",
+          "module": "bus",
+          "version": {
+            "requires": "8.0.2"
+          }
+        },
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.16.14"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "forbricbus-fabric-8.0.2.jar",
+          "url": "forbricbus-fabric-8.0.2.jar",
+          "size": 29389,
+          "sha512": "1df9beda19e25a818bc5638a065a95ce115ca5ce68d038738ce425628e4f1232918711f1052173676e1b119d5cc93b3382d1627f5757452de8ba48be36edd2e0",
+          "sha256": "3542b26a4462e4d40539a017ac98b2b89c2edfa5bdda84e3a90fc408283da322",
+          "sha1": "7fe64296b8b5d48354df4468cef9c201e1128704",
+          "md5": "f03ad5c6bd2ff44000f9fc8fbe10f6e5"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "forbricbus-fabric-8.0.2-sources.jar",
+          "url": "forbricbus-fabric-8.0.2-sources.jar",
+          "size": 2682,
+          "sha512": "b35c19f918f29233dfdc1ea87dda674e8abcf23a9bad7ddd92380a4f66d74625f9890cca8755846556c1219fa35d80677349a3899a2723d1bbc75ef4a9716973",
+          "sha256": "8da33e7a59efafc41acf607b5dd9b7656c4222bcb9b6a3fb0c5bd63356a4c9d6",
+          "sha1": "1139eb41ae85387c28294f6248f7628813cf7b2c",
+          "md5": "e3b06fbafa8fcbdf2d313b147e00be67"
+        }
+      ]
+    }
+  ]
+}
