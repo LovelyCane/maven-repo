@@ -1,0 +1,77 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.forbricbus",
+    "module": "forbricbus-lexforge",
+    "version": "8.0.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.8"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "forbricbus-lexforge-8.0.2.jar",
+          "url": "forbricbus-lexforge-8.0.2.jar",
+          "size": 2199,
+          "sha512": "57beb36be10b4b9b9ce08e9007ced37f1f7f666d417ddb776e033e079bdbe7a227d1daf9e945148334c0b78632c0f62c04025d452bdb1b8469b4d97c9c45b127",
+          "sha256": "d37ab0ba0f36f2a7bfae9dbc4898c1df0da051a79c5e3a7c638c2235438c7101",
+          "sha1": "8d5e8cc4d086c3f3fca9cb50b4a45c15d89cd8b5",
+          "md5": "b6096daa36db45db94ae71bf1ef418a7"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.sf.jopt-simple",
+          "module": "jopt-simple",
+          "version": {
+            "strictly": "5.0.4",
+            "requires": "5.0.4"
+          }
+        },
+        {
+          "group": "net.minecraftforge",
+          "module": "forge",
+          "version": {
+            "requires": "1.21.5-55.0.9_mapped_official_1.21.5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "forbricbus-lexforge-8.0.2.jar",
+          "url": "forbricbus-lexforge-8.0.2.jar",
+          "size": 2199,
+          "sha512": "57beb36be10b4b9b9ce08e9007ced37f1f7f666d417ddb776e033e079bdbe7a227d1daf9e945148334c0b78632c0f62c04025d452bdb1b8469b4d97c9c45b127",
+          "sha256": "d37ab0ba0f36f2a7bfae9dbc4898c1df0da051a79c5e3a7c638c2235438c7101",
+          "sha1": "8d5e8cc4d086c3f3fca9cb50b4a45c15d89cd8b5",
+          "md5": "b6096daa36db45db94ae71bf1ef418a7"
+        }
+      ]
+    }
+  ]
+}
