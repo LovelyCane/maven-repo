@@ -20,7 +20,7 @@
     <dependency>
       <groupId>net.minecraftforge</groupId>
       <artifactId>forge</artifactId>
-      <version>1.21.5-55.0.9_mapped_official_1.21.5</version>
+      <version>1.21.5-55.0.9_mapped_official_1.20.1</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>

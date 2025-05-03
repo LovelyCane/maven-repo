@@ -27,11 +27,11 @@
         {
           "name": "forbricbus-lexforge-8.0.2.jar",
           "url": "forbricbus-lexforge-8.0.2.jar",
-          "size": 2199,
-          "sha512": "9097816fe329024fcc7113b1b31c8ede37794de6e3cea32d5ff4aa37676fb0df314d471d414fbc8255ccc2588be73c1c654dcdfb9875d6cf49457a9bed9f44be",
-          "sha256": "aeef48302af14bddb85a5ac7e484cdad58837af966dc10a316b443488d4e047b",
-          "sha1": "5aaf78d9ceb203ac7fe18162dcb28cb1ed59f354",
-          "md5": "45c62312dd7097306ed389c8c1ad8b05"
+          "size": 2202,
+          "sha512": "5cb573b54582ab61aa143dc10da2cf40d3104fb6b034964515a9f30bf98432db3bf3a429c1d7dae7838916676179f179e7b40a308d313d9eb8ec5cf843ef9980",
+          "sha256": "bac873571900b8145b1a7d7ef3e80cca5ceb28bda8ec114a09d1b819f8af548b",
+          "sha1": "f18bb3962fb408951da540ea98b3989f01cfdad9",
+          "md5": "1cff3561f1fa54698dcb65cdf6a3e749"
         }
       ]
     },
@@ -57,7 +57,7 @@
           "group": "net.minecraftforge",
           "module": "forge",
           "version": {
-            "requires": "1.21.5-55.0.9_mapped_official_1.21.5"
+            "requires": "1.21.5-55.0.9_mapped_official_1.20.1"
           }
         }
       ],
@@ -65,11 +65,11 @@
         {
           "name": "forbricbus-lexforge-8.0.2.jar",
           "url": "forbricbus-lexforge-8.0.2.jar",
-          "size": 2199,
-          "sha512": "9097816fe329024fcc7113b1b31c8ede37794de6e3cea32d5ff4aa37676fb0df314d471d414fbc8255ccc2588be73c1c654dcdfb9875d6cf49457a9bed9f44be",
-          "sha256": "aeef48302af14bddb85a5ac7e484cdad58837af966dc10a316b443488d4e047b",
-          "sha1": "5aaf78d9ceb203ac7fe18162dcb28cb1ed59f354",
-          "md5": "45c62312dd7097306ed389c8c1ad8b05"
+          "size": 2202,
+          "sha512": "5cb573b54582ab61aa143dc10da2cf40d3104fb6b034964515a9f30bf98432db3bf3a429c1d7dae7838916676179f179e7b40a308d313d9eb8ec5cf843ef9980",
+          "sha256": "bac873571900b8145b1a7d7ef3e80cca5ceb28bda8ec114a09d1b819f8af548b",
+          "sha1": "f18bb3962fb408951da540ea98b3989f01cfdad9",
+          "md5": "1cff3561f1fa54698dcb65cdf6a3e749"
         }
       ]
     }
