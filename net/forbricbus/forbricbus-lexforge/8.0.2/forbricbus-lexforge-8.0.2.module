@@ -28,10 +28,10 @@
           "name": "forbricbus-lexforge-8.0.2.jar",
           "url": "forbricbus-lexforge-8.0.2.jar",
           "size": 2199,
-          "sha512": "57beb36be10b4b9b9ce08e9007ced37f1f7f666d417ddb776e033e079bdbe7a227d1daf9e945148334c0b78632c0f62c04025d452bdb1b8469b4d97c9c45b127",
-          "sha256": "d37ab0ba0f36f2a7bfae9dbc4898c1df0da051a79c5e3a7c638c2235438c7101",
-          "sha1": "8d5e8cc4d086c3f3fca9cb50b4a45c15d89cd8b5",
-          "md5": "b6096daa36db45db94ae71bf1ef418a7"
+          "sha512": "05e07aec140aee767ad985beca2e2ab41ec87dff1432942ba180b40b53bf72066197997a89243d1d5a32b5e8bac2edd657b432d17ca87f4ba2b11e03520a923f",
+          "sha256": "423645f2c34601478e9a4c6a404522cc4382dcc9390a5f509d4a3fca0985dc85",
+          "sha1": "a1942e09fe3fd6e5ad2145926d0fb704f08c130b",
+          "md5": "6b9176884b3a67f04ed1849d60da282f"
         }
       ]
     },
@@ -66,10 +66,10 @@
           "name": "forbricbus-lexforge-8.0.2.jar",
           "url": "forbricbus-lexforge-8.0.2.jar",
           "size": 2199,
-          "sha512": "57beb36be10b4b9b9ce08e9007ced37f1f7f666d417ddb776e033e079bdbe7a227d1daf9e945148334c0b78632c0f62c04025d452bdb1b8469b4d97c9c45b127",
-          "sha256": "d37ab0ba0f36f2a7bfae9dbc4898c1df0da051a79c5e3a7c638c2235438c7101",
-          "sha1": "8d5e8cc4d086c3f3fca9cb50b4a45c15d89cd8b5",
-          "md5": "b6096daa36db45db94ae71bf1ef418a7"
+          "sha512": "05e07aec140aee767ad985beca2e2ab41ec87dff1432942ba180b40b53bf72066197997a89243d1d5a32b5e8bac2edd657b432d17ca87f4ba2b11e03520a923f",
+          "sha256": "423645f2c34601478e9a4c6a404522cc4382dcc9390a5f509d4a3fca0985dc85",
+          "sha1": "a1942e09fe3fd6e5ad2145926d0fb704f08c130b",
+          "md5": "6b9176884b3a67f04ed1849d60da282f"
         }
       ]
     }
